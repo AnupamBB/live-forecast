@@ -1,0 +1,40 @@
+.weatherBg{
+  background: url("https://images.theconversation.com/files/442675/original/file-20220126-17-1i0g402.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.heading{
+  color: black;
+  font-weight: 700;
+}
+
+.wetherResultBox{
+  margin: auto;
+  width: 400px;
+  height: 300px;
+  box-shadow: 0 4px 8px 0 rgba(36, 153, 237, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 4vh;
+}
+
+.weatherIcon{
+  margin-top: 2rem;
+  width: 90px;
+  height: 90px;
+}
+
+.weatherCity{
+font-size: 25px;
+
+}
+
+.weatherTemp{
+  
+font-size: 55px;
+font-weight: 700;
+
+}
