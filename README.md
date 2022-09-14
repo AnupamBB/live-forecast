@@ -20,7 +20,7 @@ I present to you Live Forecast.It is a very simple and user friendly application
 <img src="assets\after.png" align="center" style="border: 3px solid #e78200;"/>
 
 </div>
-![AFTER](https://drive.google.com/file/d/1NFj-0m2s7EczkXpQ7yUnGJEVZwBYaKGD/view?usp=sharing)
+
 
 ### Technologies used
 
@@ -37,8 +37,6 @@ I present to you Live Forecast.It is a very simple and user friendly application
 
 ### Installing depencencies and running the app
 * Do `npm install` (One Time Setup)
-* Do `npm install -g ganache-cli` and then `npm install -g truffle` (One Time Setup)
-* Run `ganache-cli`
-* In another terminal window, from project root run `truffle migrate`
-* Make sure your MetaMask in connected to localhost:8545
+* Do `npm install bootstrap` (One Time Setup)
+* Do `npm install axios` (One Time Setup)
 * Finally, Run WebApp with `npm run start`
