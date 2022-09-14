@@ -18,7 +18,9 @@ I present to you Live Forecast.It is a very simple and user friendly application
 <br>
 <br>
 <img src="https://drive.google.com/file/d/1NFj-0m2s7EczkXpQ7yUnGJEVZwBYaKGD/view?usp=sharing" width="800" align="center" style="border: 3px solid #e78200;"/>
+
 </div>
+![AFTER](https://drive.google.com/file/d/1NFj-0m2s7EczkXpQ7yUnGJEVZwBYaKGD/view?usp=sharing)
 
 ### Technologies used
 
