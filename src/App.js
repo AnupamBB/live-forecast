@@ -36,7 +36,8 @@ function App() {
   };
 
   return (
-    <div className="col-md-12">
+    <div className="back">
+      <div className="col-md-12">
       <div className="weatherBg">
         <h1 className="heading">Live Forecast</h1>
 
@@ -72,6 +73,7 @@ function App() {
             </h6>
           </div>
         </div>
+    </div>
     </div>
   );
 }

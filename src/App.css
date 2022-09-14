@@ -1,0 +1,54 @@
+.back{
+  background: url("https://wallpaperaccess.com/full/31192.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+.weatherBg{
+  height: 63vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color: black;
+  font-weight: 700;
+  margin-top: -50px;
+}
+
+.wetherResultBox{
+  justify-content: center;
+  
+  margin: auto;
+  width: 400px;
+  height: 320px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 4vh;
+  backdrop-filter: blur(8px);
+}
+
+.weatherIcon{
+  margin-top: 2rem;
+  width: 90px;
+  height: 90px;
+}
+
+.weatherCity{
+font-size: 25px;
+color: white;
+
+}
+
+.weatherTemp{
+  
+font-size: 55px;
+font-weight: 700;
+color: black;
+
+}
